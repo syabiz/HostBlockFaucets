@@ -1,11 +1,3 @@
-
-127.0.0.1 localhost
-127.0.0.1 syabiz.dev
-127.0.0.1 mikhmon.syabiz.dev
-127.0.0.1 desa.id
-127.0.0.1 karangtawang.desa.id
-127.0.0.1 darma.desa.id
-
 # CF Faucet'sample
 0.0.0.0	bmcdn1.com
 0.0.0.0	static.bmcdn1.com
