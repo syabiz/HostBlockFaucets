@@ -1,340 +1,364 @@
-# FAUCETPAY SITES
-0.0.0.0	bmcdn1.com
-0.0.0.0	static.bmcdn1.com
-0.0.0.0	cdn.bmcdn1.com
-0.0.0.0	bitmedia.io
-0.0.0.0	secure-assets.rubiconproject.com
-0.0.0.0	rubiconproject.com
-0.0.0.0	a-ads.com
-0.0.0.0	cdn.a-ads.com
-0.0.0.0	click.a-ads.com
-0.0.0.0	ad.a-ads.com
-0.0.0.0	ads.a-ads.com
-0.0.0.0	static.a-ads.com
-0.0.0.0	adv0.a-ads.com
-0.0.0.0	adv1.a-ads.com
-0.0.0.0	adv2.a-ads.com
-0.0.0.0	adv3.a-ads.com
-0.0.0.0	cdn.mgid.com
-0.0.0.0	mgid.com
-0.0.0.0	widgets.mgid.com
-0.0.0.0	servicer.mgid.co
-0.0.0.0	c.mgid.com
-0.0.0.0	jsc.mgid.com
-0.0.0.0	cdn.cpx-research.com
-0.0.0.0	cpx-research.com
-0.0.0.0	cm.mgid.com
-0.0.0.0	blog.mgid.com
-0.0.0.0	support.mgid.com
-0.0.0.0	go.mgid.com
-0.0.0.0	ns.mgid.com
-0.0.0.0	ext.mgid.com
-0.0.0.0	docs.mgid.com
-0.0.0.0	bank.mgid.com
-0.0.0.0	apps.mgid.com
-0.0.0.0	ns2.mgid.com
-0.0.0.0	content.mgid.com
-0.0.0.0	api.mgid.com
-0.0.0.0	sync.mgid.com
-0.0.0.0	www.mgid.com
-0.0.0.0	site.mgid.com
-0.0.0.0	images.mgid.com
-0.0.0.0	admin.mgid.com
-0.0.0.0	dev.mgid.com
-0.0.0.0	panel.mgid.com
-0.0.0.0	tools.mgid.com
-0.0.0.0	a.mgid.com
-0.0.0.0	b.mgid.com
-0.0.0.0	c.mgid.com
-0.0.0.0	confluence.mgid.com
-0.0.0.0	samples.mgid.com
-0.0.0.0	img.mgid.com
-0.0.0.0	support.mgid.com
-0.0.0.0	exchange.mgid.com
-0.0.0.0	new.mgid.com
-0.0.0.0	main.mgid.com
-0.0.0.0	s-img.mgid.com
-0.0.0.0	git.mgid.com
-0.0.0.0	widgets.mgid.com
-0.0.0.0	ns3.mgid.com
-0.0.0.0	msg.mgid.com
-0.0.0.0	jira.mgid.com
-0.0.0.0	social.mgid.com
-0.0.0.0	criteo.com
-0.0.0.0	gum.criteo.com
-0.0.0.0	i.imgur.com
-0.0.0.0	coinzilla.com
-0.0.0.0	cdn.coinzilla.com
-0.0.0.0	www.coinzilla.com
-0.0.0.0	request-global.czilladx.com
-0.0.0.0	czilladx.com
-0.0.0.0	cdn.czilladx.com
-0.0.0.0	imgur.com
-0.0.0.0	cdn.i.imgur.com
-0.0.0.0	cdn.imgur.com
-0.0.0.0	roobet.com
-0.0.0.0	cdn.roobet.com
-0.0.0.0	assets.revcontent.com
-0.0.0.0	revcontent.com
-0.0.0.0	ad.bitmedia.io
-0.0.0.0	in-page-push.com
-0.0.0.0	js.wpadmngr.com
-0.0.0.0	wpadmngr.com
-0.0.0.0	aa.agkn.com
-0.0.0.0	agkn.com
-0.0.0.0	market.moonicorn.network
-0.0.0.0	moonicorn.network
-0.0.0.0	cdn.moonicorn.network
-0.0.0.0	www.moonicorn.network
+# adex.network
+0.0.0.0	adex.network
+0.0.0.0	www.adex.network
+0.0.0.0	
+
+# coinverti.com
+0.0.0.0	 coinverti.com
+0.0.0.0 
+
+# bmfads.com
+0.0.0.0	 bmfads.com
+0.0.0.0	 
+
+# bmcdn1.com
+0.0.0.0  bmcdn1.com
+0.0.0.0  cdn.bmcdn1.com	
+0.0.0.0 
+
+# surfe.pro	
+0.0.0.0 surfe.pro
+0.0.0.0 static.surfe.pro
+0.0.0.0 
+
+
+# cryptocoinsad.com
+0.0.0.0	 cryptocoinsad.com
+0.0.0.0	
+
+# a-ads.com 
+0.0.0.0	 a-ads.com
+0.0.0.0	 ad.a-ads.com
+0.0.0.0	 www.a-ads.com
+0.0.0.0	 click.a-ads.com
+0.0.0.0	 static.a-ads.com
+0.0.0.0  acceptable.a-ads.com
+0.0.0.0 
+
+# cointraffic.io
+0.0.0.0	 cointraffic.io
+0.0.0.0	 appsha-lon2.cointraffic.io
+0.0.0.0  appsha1.cointraffic.io
+0.0.0.0 
+
+# sentry-cdn.com
+0.0.0.0	 sentry-cdn.com
+0.0.0.0	 browser.sentry-cdn.com
+0.0.0.0 
+
+# adhitzads.com
+0.0.0.0	 adhitzads.com
+0.0.0.0	 p3.adhitzads.com
+0.0.0.0	 
+
+# bitcoadz.io
+0.0.0.0 bitcoadz.io
+0.0.0.0 www.bitcoadz.io
+0.0.0.0 
+
+# bitcoinad.io
+0.0.0.0 bitcoinad.io
+0.0.0.0 www.bitcoinad.io
+
+# adtrackers.net
+0.0.0.0 adtrackers.net
+0.0.0.0 www.adtrackers.net
+0.0.0.0 crunchyroll.adtrackers.net
+
+# adbit.biz
+0.0.0.0	 adbit.biz
+0.0.0.0	 www.adhitzads.com
+0.0.0.0 
+
+# coinzilla.com
+0.0.0.0	 coinzilla.com
+0.0.0.0	 cdn.coinzilla.com
+
+# czilladx.com
+0.0.0.0  request-global.czilladx.com
+0.0.0.0  czilladx.com
+
+# arc.io
+0.0.0.0 arc.io
+0.0.0.0 static.arc.io
+0.0.0.0 
+
+# iclickcdn.com
+0.0.0.0 iclickcdn.com
+0.0.0.0  
+
+# alternativecpmgate.com
+0.0.0.0 alternativecpmgate.com 
+0.0.0.0 pl16410124.alternativecpmgate.com
+0.0.0.0 
+
+# popcash.net
+0.0.0.0 popcash.net
+0.0.0.0 cdn.popcash.net
+0.0.0.0 cdn2.popcash.net
+0.0.0.0 
+
+# exdynsrv.com
+0.0.0.0 exdynsrv.com
+0.0.0.0 a.exdynsrv.com
+0.0.0.0 syndication.exdynsrv.com
+
+# histats.com
+0.0.0.0 histats.com
+0.0.0.0 s10.histats.com
+0.0.0.0 
+
+# h12-media.com
+0.0.0.0 h12-media.com
+0.0.0.0 tags.h12-media.com
+
+# cash-ads.com
+0.0.0.0 cash-ads.com
+0.0.0.0 g.cash-ads.com
+0.0.0.0 
+0.0.0.0 
+
+# flagcounter.com
+0.0.0.0 flagcounter.com
+0.0.0.0 s01.flagcounter.com
+0.0.0.0 s02.flagcounter.com
+0.0.0.0 s03.flagcounter.com
+0.0.0.0 s04.flagcounter.com
+0.0.0.0 s05.flagcounter.com
+0.0.0.0 
+
+# moonicorn.network
+0.0.0.0 moonicorn.network
+0.0.0.0 ipfs.moonicorn.network
+0.0.0.0 viewm.moonicorn.network
+
+# cloudfront.net
+0.0.0.0 cloudfront.net
+0.0.0.0 d13k7prax1yi04.cloudfront.net
+0.0.0.0 d2zur9cc2gf1tx.cloudfront.net
+
+# cloudflareinsights.com
+0.0.0.0 cloudflareinsights.com
+0.0.0.0 static.cloudflareinsights.com
+
+#tradingview.com
+0.0.0.0 tradingview.com
+0.0.0.0 s3.tradingview.com
+0.0.0.0 s.tradingview.com
+
+# mellowads.com
 0.0.0.0	mellowads.com
-0.0.0.0	www.mellowads.com
-0.0.0.0	cdn.mellowads.com
-0.0.0.0	ftp.mellowads.com
-0.0.0.0	bitswall.net
-0.0.0.0	www.bitswall.net
-0.0.0.0	cdn.bitswall.net
-0.0.0.0	flagcounter.com
-0.0.0.0	info.flagcounter.com
-0.0.0.0	s05.flagcounter.com
-0.0.0.0	bmfads.com
-0.0.0.0	www.bmfads.com
-0.0.0.0	cdn.bmfads.com
-0.0.0.0	support.mellowads.com
-0.0.0.0	webmail.mellowads.com
-0.0.0.0	autodiscover.mellowads.com
-0.0.0.0	earnhub.net
-0.0.0.0	surfe.pro
-0.0.0.0	rawirymi.xyz
-0.0.0.0	core.arc.io
-0.0.0.0	arc.io
-0.0.0.0	cryptocoinsad.com
-0.0.0.0	gateway.arc.io
-0.0.0.0	webseed.arc.io
-0.0.0.0	static.arc.io
-0.0.0.0	ui.clevernt.com
-0.0.0.0	clevernt.com
-0.0.0.0	bitcoinad.io
-0.0.0.0	adhitzads.com
-0.0.0.0	p3.adhitzads.com
-0.0.0.0	s3.c.adhitzads.com
-0.0.0.0	c.adhitzads.com
-0.0.0.0	www.adhitz.com
-0.0.0.0	cointraffic.io
-0.0.0.0	placehold.it
-0.0.0.0	www.h12-media.com
-0.0.0.0	h12-media.com
-0.0.0.0	gum.criteo.com
-0.0.0.0	criteo.com
-0.0.0.0	tags.h12-media.com
-0.0.0.0	tradingview.com
-0.0.0.0	www.tradingview.com
-0.0.0.0	a-ads.com
-0.0.0.0	click.a-ads.com
-0.0.0.0	cdn.statically.io
-0.0.0.0	statically.io
-0.0.0.0	e.dtscout.com
-0.0.0.0	dtscout.com
-0.0.0.0	adsco.re
-0.0.0.0	c.adsco.re
-0.0.0.0	cdn.adsco.re
-0.0.0.0	www.adsco.re
-0.0.0.0	www.betteradsystem.com
-0.0.0.0	betteradsystem.com
-0.0.0.0	surfe.pro
-0.0.0.0	static.surfe.be
-0.0.0.0	files.cointraffic.io
-0.0.0.0	appsha-lon2.cointraffic.io
-0.0.0.0	coinzillatag.com
-0.0.0.0	static.surfe.pro
-0.0.0.0	www.googletagmanager.com
-0.0.0.0	click.a-ads.com
-0.0.0.0	ad.a-ads.com
-0.0.0.0	cdn.bmcdn1.com
-0.0.0.0	yjizykyh.xyz
-0.0.0.0	appsha1.cointraffic.io
-0.0.0.0	secure-assets.rubiconproject.com
-0.0.0.0	crunchyroll.adtrackers.net
-0.0.0.0	adtrackers.net
-0.0.0.0	rubiconproject.com
-0.0.0.0	gum.criteo.com
-0.0.0.0	criteo.com
-0.0.0.0	ad.360yield.com
-0.0.0.0	360yield.com
-0.0.0.0	cdn.360yield.com
-0.0.0.0	www.360yield.com
-0.0.0.0	sync.richaudience.com
-0.0.0.0	richaudience.com
-0.0.0.0	www.richaudience.com
-0.0.0.0	cdn.richaudience.com
-0.0.0.0	x.bidswitch.net
-0.0.0.0	bidswitch.net
-0.0.0.0	mp.4dex.io
-0.0.0.0	4dex.io
-0.0.0.0	tmyzer.com
-0.0.0.0	r.tmyzer.com
-0.0.0.0	torrentz.adclixx.net
-0.0.0.0	adclixx.net
-0.0.0.0	tmyzer.com
-0.0.0.0	yjizykyh.xyz
-0.0.0.0	taboola.com
-0.0.0.0	popup.taboola.com
-0.0.0.0	trc.taboola.com
-0.0.0.0	images.taboola.com
-0.0.0.0	ads.themoneytizer.com
-0.0.0.0	themoneytizer.com
-0.0.0.0	torrentz.adclixx.net
-0.0.0.0	adclixx.net
-0.0.0.0	sync.richaudience.com
-0.0.0.0	eb2.3lift.com
-0.0.0.0	onetag-sys.com
-0.0.0.0	acdn.adnxs.com
-0.0.0.0	adclixx.net
-0.0.0.0	3lift.com
-0.0.0.0	adnxs.com
-0.0.0.0	ads.betweendigital.com
-0.0.0.0	betweendigital.com
-0.0.0.0	cds.taboola.com
-0.0.0.0	cdn.taboola.com
-0.0.0.0	match.prod.bidr.io
-0.0.0.0	prod.bidr.io
-0.0.0.0	bidswitch.net
-0.0.0.0	x.bidswitch.net
-0.0.0.0	bidr.io
-0.0.0.0	match.prod.bidr.io
-0.0.0.0	prod.bidr.io
-0.0.0.0	viewm.moonicorn.network
-0.0.0.0	moonicorn.network
-0.0.0.0	coinverti.com
-0.0.0.0	addthis.com
-0.0.0.0	s7.addthis.com
-0.0.0.0	www.addthis.com
-0.0.0.0	cdn.addthis.com
-0.0.0.0	addthisedge.com
-0.0.0.0	addthisedge.com
-0.0.0.0	histats.com
-0.0.0.0	s10.histats.com
-0.0.0.0	javoyynu.xyz
-0.0.0.0	cdn.placehold.it
-0.0.0.0	www.placehold.it
-0.0.0.0	adoto.net
-0.0.0.0	s03.h.cdn4.life
-0.0.0.0	h.cdn4.life
-0.0.0.0	cdn4.life
-0.0.0.0	adcryptoco.in
-0.0.0.0	dashboard.jalewaads.com
-0.0.0.0	jalewaads.com
-0.0.0.0	display.jalewaads.com
-0.0.0.0	cdn.jalewaads.com
-0.0.0.0	static.surfe.pro
-0.0.0.0	surfe.pro
-0.0.0.0	adsyou.pro
-0.0.0.0	ayelads.com
-0.0.0.0	www.bitcoadz.io
-0.0.0.0	cdn.bitcoadz.io
-0.0.0.0	bitcoadz.io
-0.0.0.0	www.ayelads.com
-0.0.0.0	cdn.ayelads.com
-0.0.0.0	ayelads.xyz
-0.0.0.0	cash-ads.com
-0.0.0.0	g.cash-ads.com
-0.0.0.0	zoover.adtrackers.net
-0.0.0.0	adtrackers.net
-0.0.0.0	widgetbot.io
-0.0.0.0	qik.cc
-0.0.0.0	kebarydi.xyz
-0.0.0.0	syndication.exdynsrv.com
-0.0.0.0	exdynsrv.com
-0.0.0.0	bluehost-cdn.com
-0.0.0.0	www.bluehost.com
-0.0.0.0	bluehost.com
-0.0.0.0	ayelads.xyz
-0.0.0.0	www.bitcoadz.io
-0.0.0.0	bitcoadz.io
-0.0.0.0	idsync.rlcdn.com
-0.0.0.0	rlcdn.com
-0.0.0.0	p.nexac.com
-0.0.0.0	nexac.com
-0.0.0.0	p.dlx.addthis.com
-0.0.0.0	addthis.com
-0.0.0.0	dlx.addthis.com
-0.0.0.0	s0.2mdn.net
-0.0.0.0	2mdn.net
-0.0.0.0	inpage-push.com
-0.0.0.0	jouteetu.net
-0.0.0.0	pl16452844.alternativecpmgate.com
-0.0.0.0	alternativecpmgate.com
-0.0.0.0	www.chromestatus.com
-0.0.0.0	chromestatus.com
-0.0.0.0	idsync.rlcdn.com
-0.0.0.0	ww21.animesonline.online
-0.0.0.0	animesonline.online
-0.0.0.0	www.tgzobwoutuwn.com
-0.0.0.0	tgzobwoutuwn.com
-0.0.0.0	www.wnmalshuld.com
-0.0.0.0	wnmalshuld.com
-0.0.0.0	cdn4ads.com
-0.0.0.0	c.adsco.re
-0.0.0.0	adsco.re
-0.0.0.0	offerbeast.go2affise.com
-0.0.0.0	go2affise.com
-0.0.0.0	cpm.ezmob.com
-0.0.0.0	ezmob.com
-0.0.0.0	juwymapy.xyz
-0.0.0.0	g.cash-ads.com
-0.0.0.0	cash-ads.com
-0.0.0.0	clicky.com
-0.0.0.0	static.getclicky.com
-0.0.0.0	in.getclicky.com
-0.0.0.0	iclickcdn.com
-0.0.0.0	sb.scorecardresearch.com
-0.0.0.0	scorecardresearch.com
-0.0.0.0	kebarydi.xyz
-0.0.0.0	pl16410124.alternativecpmgate.com
-0.0.0.0	alternativecpmgate.com
-0.0.0.0	p.nexac.com
-0.0.0.0	nexac.com
+0.0.0.0	mellowads.a-cdn
+0.0.0.0	mellowads.b-cdn
+0.0.0.0	mellowads.c-cdn
+
+# betteradsystem.com
+0.0.0.0 betteradsystem.com
+0.0.0.0 www.betteradsystem.com
+
+# openx.net
+0.0.0.0 openx.net
+0.0.0.0 u.openx.net
+
+# taboola.com
+0.0.0.0 taboola.com
+0.0.0.0 trc.taboola.com
+
+# chatango.com
+0.0.0.0 chatango.com
+0.0.0.0 www.chatango.com
+0.0.0.0 st.chatango.com
+
+# tiqcdn.com
+0.0.0.0 tiqcdn.com
+0.0.0.0 tags.tiqcdn.com
+
+# adnxs.com
+0.0.0.0 adnxs.com
+0.0.0.0 secure.adnxs.com
+
+# 4dex.io
+0.0.0.0 4dex.io
+0.0.0.0 script.4dex.io
+
+# indexww.com
+0.0.0.0 indexww.com
+0.0.0.0 js-sec.indexww.com
+
+# freehostedscripts.net
+0.0.0.0 freehostedscripts.net
+0.0.0.0 s1.freehostedscripts.net
+
+# leadplace.fr
+0.0.0.0 leadplace.fr
+0.0.0.0 tag.leadplace.fr
+
+# bidswitch.net
+0.0.0.0 bidswitch.net
+0.0.0.0 x.bidswitch.net
+
+# cpx.to
+0.0.0.0 cpx.to
+0.0.0.0 p.cpx.to
+0.0.0.0 s.cpx.to
+
+# casalemedia.com
+0.0.0.0 casalemedia.com
+0.0.0.0 ssum-sec.casalemedia.com
+
+# consesu.org
+0.0.0.0 consesu.org
+0.0.0.0 mgr.consesu.org
+0.0.0.0 quantcast.mgr.consesu.org
+
+# adsrvr.org
+0.0.0.0 adsrvr.org
+0.0.0.0 match.adsrvr.org
+
+# dynatrace.com
+0.0.0.0 dynatrace.com
+0.0.0.0 js-cdn.dynatrace.com
+
+# pubmatic.com
+0.0.0.0 pubmatic.com
+0.0.0.0 image2.pubmatic.com
+
+# seondf.com
+0.0.0.0 seondf.com
+0.0.0.0 cdn.seondf.com
+
+# contextweb.com
+0.0.0.0 contextweb.com
+0.0.0.0 bh.contextweb.com
+
+# 360yield.com
+0.0.0.0 360yield.com
+0.0.0.0 ad.360yield.com
+
+# themoneytizer.com
+0.0.0.0 themoneytizer.com
+0.0.0.0 ads.themoneytizer.com
+
+# bannertrack.net
+0.0.0.0 bannertrack.net
+0.0.0.0 yahoo.bannertrack.net
+0.0.0.0 zoover.bannertrack.net
+
+# zeotap.com
+0.0.0.0 zeotap.com
+0.0.0.0 spl.zeotap.com
+
+# cpx-research.com
+0.0.0.0 cpx-research.com
+0.0.0.0 cdn.cpx-research.com
+
+# coinmedia.co
+0.0.0.0 coinmedia.co
+0.0.0.0 s1.coinmedia.co
+
+# cdn4ads.com
+0.0.0.0 cdn4ads.com
+0.0.0.0 www.cdn4ads.com 
+
+# adskeeper.com
+0.0.0.0 adskeeper.com
+0.0.0.0 www.adskeeper.com
+0.0.0.0 widgets.adskeeper.com
+0.0.0.0 www.adskeeper.co.uk
+0.0.0.0 adskeeper.co.uk
+0.0.0.0 servicer.adskeeper.co.uk
+0.0.0.0 jsc.adskeeper.co.uk
+0.0.0.0 s-img.adskeeper.co.uk
+0.0.0.0 cm.adskeeper.co.uk
+0.0.0.0 cdn.adskeeper.co.uk
+0.0.0.0 c.adskeeper.co.uk
+
+# adtrackers.net
+0.0.0.0 adtrackers.net
+0.0.0.0 yasni.adtrackers.net
+
+# ad.gt
+0.0.0.0 ad.gt
+0.0.0.0 a.ad.gt
+0.0.0.0 pixels.ad.gt
+0.0.0.0 p.ad.gt
+0.0.0.0 ids.ad.gt
+
+#FaucetPay Ads Block
+0.0.0.0	yahooapis.com
+0.0.0.0 yui.yahooapis.com
+0.0.0.0 gr8.cc
+0.0.0.0 alternativecpmgate.com
+0.0.0.0 files.coinmarketcap.com
+0.0.0.0 adoto.net
+0.0.0.0 ayelads.xyz
+0.0.0.0 wutipupi.xyz
+0.0.0.0 tobaltoyon.com
+0.0.0.0 choupsee.com
+0.0.0.0 rlcdn.com
 0.0.0.0 idsync.rlcdn.com
-0.0.0.0	rlcdn.com
-0.0.0.0	cpm.ezmob.com
-0.0.0.0	ezmob.com
-0.0.0.0	adoto.net
-0.0.0.0	binomo-investment.com
-0.0.0.0	jouteetu.net
-0.0.0.0	adhitzads.com
-0.0.0.0	s0.2mdn.net
-0.0.0.0	2mdn.net
-0.0.0.0	adservice.google.com
-0.0.0.0	pubads.g.doubleclick.net
-0.0.0.0	g.doubleclick.net
-0.0.0.0	doubleclick.net
-0.0.0.0	zoover.adclixx.net
-0.0.0.0	adclixx.net
-0.0.0.0	streetcoddiffident.com
-0.0.0.0	coinverti.com
-0.0.0.0	juwymapy.xyz
-0.0.0.0	torrentz.adnetasia.com
-0.0.0.0	adnetasia.com
-0.0.0.0	cdn.popcash.net
-0.0.0.0	cdn2.popcash.net
-0.0.0.0	popcash.net
-0.0.0.0	zmuphhlienv.com
-0.0.0.0	www.adscore.com
-0.0.0.0	adscore.com
-0.0.0.0	162.252.214.4
-0.0.0.0	2734478852
-0.0.0.0	foyvizvujsor.com
-0.0.0.0	c.adsco.re
-0.0.0.0	adsco.re
-0.0.0.0	px.adhigh.net
-0.0.0.0	adhigh.net
-0.0.0.0	pdvacde.com
-0.0.0.0	exchange.buzzoola.com
-0.0.0.0	buzzoola.com
-0.0.0.0	reichelcormier.bid
-0.0.0.0	t.trafmag.com
-0.0.0.0	trafmag.com
-0.0.0.0	budvawshes.ru
-0.0.0.0	s.uuidksinc.net
-0.0.0.0	uuidksinc.net
-0.0.0.0	franecki.net
-0.0.0.0	iclickcdn.com
+0.0.0.0 nexac.com
+0.0.0.0 p.nexac.com
+0.0.0.0 scorecardresearch.com
+0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 stat-rock.com
+0.0.0.0 serving.stat-rock.com
+0.0.0.0 sylotepu.xyz
+0.0.0.0 blockadblock.com
+0.0.0.0 www.blockadblock.com
+0.0.0.0 2734478852
+0.0.0.0 gcdpqbdyaivpys.com
+0.0.0.0 www.gcdpqbdyaivpys.com
+0.0.0.0 ebjvkekktns.com
+0.0.0.0 www.ebjvkekktns.com
+0.0.0.0 visariomedia.com
+0.0.0.0 www.visariomedia.com
+0.0.0.0 adsco.re
+0.0.0.0 www.adsco.re
+0.0.0.0 c.adsco.re
+0.0.0.0 clevernt.com
+0.0.0.0 earnhub.net
+0.0.0.0 ad-doge.com
+0.0.0.0 ayelads.com
+0.0.0.0 statcounter.com
+0.0.0.0 www.statcounter.com
+0.0.0.0 pasino.com
+0.0.0.0 cdn.pasino.com
+0.0.0.0 soaheeme.net
+0.0.0.0 usounoul.com
+0.0.0.0 baufaich.com
+0.0.0.0 jomtingi.net
+0.0.0.0 denetsuk.com
+0.0.0.0 phaudree.com
+0.0.0.0 cpx-research.com
+0.0.0.0 cdn.cpx-research.com
+0.0.0.0 aufp.io
+0.0.0.0 onetag-sys.com
+0.0.0.0 2iiyrxk0.com
+0.0.0.0 stakecenter.co
+0.0.0.0 neon.today
+0.0.0.0 inbox.com
+0.0.0.0 as.inbox.com
+0.0.0.0 sylotepu.xyz
+0.0.0.0 www.mjsyqwpqnjbgua.com
+0.0.0.0 mjsyqwpqnjbgua.com
+0.0.0.0 iiueuenutuhaf.com
+0.0.0.0 yatbzuwo.com
+0.0.0.0 kjbipwznkbtybs.com
+0.0.0.0 xkkhgnszfd.com
+0.0.0.0 cyjaruvndimgaa.com
+0.0.0.0 2734478852
+0.0.0.0 adnetasia.com
+0.0.0.0 torrentz.adnetasia.com
+0.0.0.0 cjezgbjbltos.com
+0.0.0.0 cnolhzguwnfgk.com
+0.0.0.0 www.cjezgbjbltos.com
+0.0.0.0 www.cnolhzguwnfgk.com
+0.0.0.0 jmuaoupnykie.com
+0.0.0.0 www.jmuaoupnykie.com
+0.0.0.0 adsyou.pro
+0.0.0.0 qik.cc
+0.0.0.0 adsforfaucets.com
+0.0.0.0 npkg.com
+0.0.0.0 widgets.coingecko.com
+0.0.0.0 unpkg.com
