@@ -1,3 +1,43 @@
+# Google Ads
+0.0.0.0	 doubleclick.net
+0.0.0.0	 g.doubleclick.net
+0.0.0.0	 googleads.g.doubleclick.net
+0.0.0.0  pubads.g.doubleclick.net
+0.0.0.0  cm.g.doubleclick.net
+0.0.0.0	 static.doubleclick.net
+0.0.0.0	 
+
+#------------ TRACKING--------------
+0.0.0.0	 www.google-analytics.com
+0.0.0.0	 google-analytics.com 
+
+#------------ RECAPTCHA--------------
+# 0.0.0.0	 www.googletagmanager.com
+# 0.0.0.0	 googletagmanager.com
+
+
+# Microsoft and MSN
+0.0.0.0  msn.com
+0.0.0.0	 browser.events.data.msn.com
+0.0.0.0	 
+0.0.0.0	 
+0.0.0.0	 
+0.0.0.0	
+
+# Official Social Media Ads 
+0.0.0.0	 ads.twitter.com
+0.0.0.0	 ads.yahoo.com
+0.0.0.0	 ysm.yahoo.com
+0.0.0.0	 partnerads.ysm.yahoo.com
+0.0.0.0	 
+0.0.0.0	 
+0.0.0.0	 
+0.0.0.0	 
+0.0.0.0	 
+0.0.0.0	 
+0.0.0.0	 
+0.0.0.0	 
+
 # adex.network
 0.0.0.0	adex.network
 0.0.0.0	www.adex.network
@@ -6,6 +46,10 @@
 # coinverti.com
 0.0.0.0	 coinverti.com
 0.0.0.0 
+
+# quantserve.com
+0.0.0.0	quantserve.com
+0.0.0.0	secure.quantserve.com
 
 # bmfads.com
 0.0.0.0	 bmfads.com
@@ -21,10 +65,37 @@
 0.0.0.0 static.surfe.pro
 0.0.0.0 
 
+# surfe.be
+0.0.0.0 surfe.be
+0.0.0.0 static.surfe.be
+
+# adshort.live
+0.0.0.0	 adshort.live
+0.0.0.0	 www.adshort.live
+0.0.0.0	 static.adshort.live
+0.0.0.0	 ads.adshort.live
+
+# adshort.co
+0.0.0.0	 adshort.co
+0.0.0.0	 www.adshort.co
+0.0.0.0	 static.adshort.co
+0.0.0.0	 ads.adshort.co
+
+# adshort.media
+0.0.0.0	 adshort.media
+0.0.0.0	 www.adshort.media
+0.0.0.0	 static.adshort.media
+0.0.0.0	 ads.adshort.media
+
+# elfsight.com
+0.0.0.0	 elfsight.com
+0.0.0.0	 www.elfsight.com
+0.0.0.0	 static.elfsight.com
+0.0.0.0	 apps.elfsight.com
 
 # cryptocoinsad.com
 0.0.0.0	 cryptocoinsad.com
-0.0.0.0	
+0.0.0.0	 www.cryptocoinsad.com
 
 # a-ads.com 
 0.0.0.0	 a-ads.com
@@ -151,6 +222,7 @@
 0.0.0.0	mellowads.a-cdn
 0.0.0.0	mellowads.b-cdn
 0.0.0.0	mellowads.c-cdn
+0.0.0.0 banners.mellowads.com
 
 # betteradsystem.com
 0.0.0.0 betteradsystem.com
@@ -181,6 +253,14 @@
 0.0.0.0 4dex.io
 0.0.0.0 script.4dex.io
 
+# qrclevrfjw.com
+0.0.0.0 qrclevrfjw.com
+0.0.0.0 www.qrclevrfjw.com
+
+# sdmfyqkghzedvx.com
+0.0.0.0 sdmfyqkghzedvx.com
+0.0.0.0 www.sdmfyqkghzedvx.com
+
 # indexww.com
 0.0.0.0 indexww.com
 0.0.0.0 js-sec.indexww.com
@@ -201,6 +281,10 @@
 0.0.0.0 cpx.to
 0.0.0.0 p.cpx.to
 0.0.0.0 s.cpx.to
+
+# clickability.com
+0.0.0.0 clickability.com
+0.0.0.0 cas.clickability.com
 
 # casalemedia.com
 0.0.0.0 casalemedia.com
@@ -244,6 +328,11 @@
 0.0.0.0 yahoo.bannertrack.net
 0.0.0.0 zoover.bannertrack.net
 
+# adclixx.net
+0.0.0.0 adclixx.net
+0.0.0.0 yahoo.adclixx.net
+0.0.0.0 zoover.adclixx.net
+
 # zeotap.com
 0.0.0.0 zeotap.com
 0.0.0.0 spl.zeotap.com
@@ -264,8 +353,16 @@
 0.0.0.0 adskeeper.com
 0.0.0.0 www.adskeeper.com
 0.0.0.0 widgets.adskeeper.com
-0.0.0.0 www.adskeeper.co.uk
+0.0.0.0 servicer.adskeeper.com
+0.0.0.0 jsc.adskeeper.com
+0.0.0.0 s-img.adskeeper.com
+0.0.0.0 cm.adskeeper.com
+0.0.0.0 cdn.adskeeper.com
+0.0.0.0 c.adskeeper.com
+
+# adskeeper.co.uk
 0.0.0.0 adskeeper.co.uk
+0.0.0.0 www.adskeeper.co.uk
 0.0.0.0 servicer.adskeeper.co.uk
 0.0.0.0 jsc.adskeeper.co.uk
 0.0.0.0 s-img.adskeeper.co.uk
@@ -276,6 +373,23 @@
 # adtrackers.net
 0.0.0.0 adtrackers.net
 0.0.0.0 yasni.adtrackers.net
+
+# adcryp.to
+0.0.0.0 adcryp.to
+0.0.0.0 adsrv.adcryp.to
+
+# groupian.io
+0.0.0.0 groupian.io
+0.0.0.0 www.groupian.io
+
+# getclicky.com
+0.0.0.0 getclicky.com
+0.0.0.0 static.getclicky.com
+
+# adnetasia.com
+0.0.0.0 adnetasia.com
+0.0.0.0 torrentz.adnetasia.com
+0.0.0.0 serve.adnetasia.com
 
 # ad.gt
 0.0.0.0 ad.gt
@@ -348,8 +462,6 @@
 0.0.0.0 xkkhgnszfd.com
 0.0.0.0 cyjaruvndimgaa.com
 0.0.0.0 2734478852
-0.0.0.0 adnetasia.com
-0.0.0.0 torrentz.adnetasia.com
 0.0.0.0 cjezgbjbltos.com
 0.0.0.0 cnolhzguwnfgk.com
 0.0.0.0 www.cjezgbjbltos.com
@@ -361,4 +473,12 @@
 0.0.0.0 adsforfaucets.com
 0.0.0.0 npkg.com
 0.0.0.0 widgets.coingecko.com
-0.0.0.0 unpkg.com
+0.0.0.0 upgulpinon.com
+0.0.0.0 in-page-push.com
+0.0.0.0 arkhamindustries.net
+0.0.0.0 ad2bitcoin.com
+0.0.0.0 bitcoinclix.net
+0.0.0.0 cdn.adf.ly
+0.0.0.0 s3-us-west-2.amazonaws.com
+0.0.0.0 wheeptit.net
+0.0.0.0 
