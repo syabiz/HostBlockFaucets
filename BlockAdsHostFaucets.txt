@@ -1,3 +1,5 @@
+# Fix v.0.0.3-BETA
+
 # Google Ads
 0.0.0.0	 doubleclick.net
 0.0.0.0	 g.doubleclick.net
@@ -29,6 +31,7 @@
 0.0.0.0	 ads.yahoo.com
 0.0.0.0	 ysm.yahoo.com
 0.0.0.0	 partnerads.ysm.yahoo.com
+0.0.0.0	 advertising.aol.com
 0.0.0.0	 
 0.0.0.0	 
 0.0.0.0	 
@@ -36,7 +39,11 @@
 0.0.0.0	 
 0.0.0.0	 
 0.0.0.0	 
-0.0.0.0	 
+
+# Fucking Indihome redirect
+0.0.0.0 uzone.id
+0.0.0.0 mercusuar.uzone.id
+0.0.0.0 duniagames.co.id
 
 # adex.network
 0.0.0.0	adex.network
@@ -327,11 +334,22 @@
 0.0.0.0 bannertrack.net
 0.0.0.0 yahoo.bannertrack.net
 0.0.0.0 zoover.bannertrack.net
+0.0.0.0 serve.bannertrack.net
+0.0.0.0 yasni.bannertrack.net
 
 # adclixx.net
 0.0.0.0 adclixx.net
 0.0.0.0 yahoo.adclixx.net
 0.0.0.0 zoover.adclixx.net
+0.0.0.0 serve.adclixx.net
+0.0.0.0 yasni.adclixx.net
+
+# adtrackers.net
+0.0.0.0 adtrackers.net
+0.0.0.0 yahoo.adtrackers.net
+0.0.0.0 zoover.adtrackers.net
+0.0.0.0 serve.adtrackers.net
+0.0.0.0 yasni.adtrackers.net
 
 # zeotap.com
 0.0.0.0 zeotap.com
@@ -369,10 +387,6 @@
 0.0.0.0 cm.adskeeper.co.uk
 0.0.0.0 cdn.adskeeper.co.uk
 0.0.0.0 c.adskeeper.co.uk
-
-# adtrackers.net
-0.0.0.0 adtrackers.net
-0.0.0.0 yasni.adtrackers.net
 
 # adcryp.to
 0.0.0.0 adcryp.to
@@ -481,4 +495,5 @@
 0.0.0.0 cdn.adf.ly
 0.0.0.0 s3-us-west-2.amazonaws.com
 0.0.0.0 wheeptit.net
+0.0.0.0 eamhub.net
 0.0.0.0 
