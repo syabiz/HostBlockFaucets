@@ -1,4 +1,4 @@
-# Fix v.0.0.3-BETA
+# Fix v.0.0.4-BETA
 
 # Google Ads
 0.0.0.0	 doubleclick.net
@@ -26,15 +26,18 @@
 0.0.0.0	 
 0.0.0.0	
 
+# Yandex
+0.0.0.0 mc.yandex.ru
+
 # Official Social Media Ads 
 0.0.0.0	 ads.twitter.com
 0.0.0.0	 ads.yahoo.com
 0.0.0.0	 ysm.yahoo.com
 0.0.0.0	 partnerads.ysm.yahoo.com
 0.0.0.0	 advertising.aol.com
-0.0.0.0	 
-0.0.0.0	 
-0.0.0.0	 
+0.0.0.0	 adn.ebay.com
+0.0.0.0	 advertising.yahoo.com
+0.0.0.0	 ad.mail.ru
 0.0.0.0	 
 0.0.0.0	 
 0.0.0.0	 
@@ -66,6 +69,10 @@
 0.0.0.0  bmcdn1.com
 0.0.0.0  cdn.bmcdn1.com	
 0.0.0.0 
+
+# popwad.xyz
+0.0.0.0  popwad.xyz
+0.0.0.0  p.popwad.xyz
 
 # surfe.pro	
 0.0.0.0 surfe.pro
@@ -367,6 +374,8 @@
 0.0.0.0 cdn4ads.com
 0.0.0.0 www.cdn4ads.com 
 
+
+
 # adskeeper.com
 0.0.0.0 adskeeper.com
 0.0.0.0 www.adskeeper.com
@@ -404,6 +413,22 @@
 0.0.0.0 adnetasia.com
 0.0.0.0 torrentz.adnetasia.com
 0.0.0.0 serve.adnetasia.com
+
+# effectivedisplayformat.com
+0.0.0.0 effectivedisplayformat.com
+0.0.0.0 www.effectivedisplayformat.com
+
+# ads1coin.com
+0.0.0.0 ads1coin.com
+0.0.0.0 www.ads1coin.com
+
+# pwjwgrtznpl.com
+0.0.0.0 pwjwgrtznpl.com
+0.0.0.0 www.pwjwgrtznpl.com
+
+# ywodpsbzl.com
+0.0.0.0 ywodpsbzl.com
+0.0.0.0 www.ywodpsbzl.com
 
 # ad.gt
 0.0.0.0 ad.gt
@@ -496,4 +521,37 @@
 0.0.0.0 s3-us-west-2.amazonaws.com
 0.0.0.0 wheeptit.net
 0.0.0.0 eamhub.net
-0.0.0.0 
+0.0.0.0 nearestaxe.com
+0.0.0.0 www.gyfumobo.com
+0.0.0.0 gyfumobo.com
+0.0.0.0 portal.growadvertising.com
+0.0.0.0 growadvertising.com
+0.0.0.0 polyfill.io
+0.0.0.0 s.w.org
+0.0.0.0 lemouwee.com
+0.0.0.0 apprefaculty.pro
+0.0.0.0 www.gyfumobo.com
+0.0.0.0 gyfumobo.com
+0.0.0.0 winzmedia.top
+0.0.0.0 r.honeygain.me
+0.0.0.0 honeygain.me
+0.0.0.0 rollercoin.com
+0.0.0.0 playamopartners.com
+0.0.0.0 media.playamopartners.com
+0.0.0.0 akamaihd.net
+0.0.0.0 netrefer-a.akamaihd.net
+0.0.0.0 rollercoin.com
+0.0.0.0 rollercoin.com
+0.0.0.0 s.skimresources.com
+0.0.0.0 skimresources.com
+0.0.0.0 neezausu.net
+0.0.0.0 get.cryptobrowser.site
+0.0.0.0 streetcoddiffident.com
+0.0.0.0 whkesznbi.com
+0.0.0.0 propu.sh
+0.0.0.0 apprefaculty.pro
+0.0.0.0 fbsbx.com
+0.0.0.0 platform-lookaside.fbsbx.com
+0.0.0.0 bigzone.xyz
+0.0.0.0 adorion.net
+0.0.0.0 show.adorion.net
